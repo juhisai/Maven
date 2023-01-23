@@ -26,5 +26,20 @@ public class Class1 {
 		System.out.println("Employee3");
 
 	}
+	
+	private void raja() {
+		System.out.println("Raja");
+
+	}
+	private void ram() {
+		System.out.println("Ram");
+
+
+	}
+	private void arun() {
+		System.out.println("Arun");
+
+
+	}
 
 }
