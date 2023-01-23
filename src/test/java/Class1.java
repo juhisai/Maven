@@ -14,5 +14,17 @@ public class Class1 {
 		System.out.println("Test");
 
 	}
+	private void employee1() {
+		System.out.println("Employee1");
+
+	}
+	private void employee2() {
+		System.out.println("Employee2");
+
+	}
+	private void employee3() {
+		System.out.println("Employee3");
+
+	}
 
 }
